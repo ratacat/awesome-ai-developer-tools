@@ -314,3 +314,10 @@ GitHub Copilot's **Agent Mode** is an advanced feature designed to enhance devel
 - **Terminal Command Suggestions**: Copilot recommends and can execute terminal commands essential for tasks like installing dependencies, running tests, or deploying applications, thereby automating routine command-line operations. 
 - **Iterative Code Refinement**: The agent iterates over its outputs, refining code implementations until the desired functionality is achieved, reducing the need for manual revisions.
 - **Integration with Visual Studio Code**: Currently available in preview for Visual Studio Code, Agent Mode integrates seamlessly into the development environment, allowing developers to leverage its capabilities within their existing workflows.
+
+### No Stairs Please MCP
+
+- Website: https://nostairsplease.com/
+- MCP Endpoint: https://nostairsplease.com/mcp
+
+Read-only MCP server and venue directory covering small live music stages across all 50 US states and who books them.
